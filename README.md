@@ -23,3 +23,5 @@ Developed an interactive Power BI dashboard to analyze Brazil e-commerce sales p
 - Utilized SQL queries for data extraction and analysis.
 ## Outcome
 Generated actionable business insights through interactive visualizations and data-driven analysis.
+<img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/c9fb7f4e-2404-47cc-b4d3-9aa007fa6152" />
+
